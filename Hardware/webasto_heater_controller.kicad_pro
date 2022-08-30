@@ -360,7 +360,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Disco3_FBH.kicad_pro",
+    "filename": "webasto_heater_controller.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -398,7 +398,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "webasto_heater_controller.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
